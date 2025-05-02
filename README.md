@@ -62,9 +62,9 @@ I welcome suggestions and contributions to improve this portfolio. If you have i
 
 ## 📬 **Contact**
 Feel free to connect with me:
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
+- **Email**: swaroopgupta2005@gmail.com
+- **LinkedIn**: www.linkedin.com/in/swaroop-gupta-b2b106295
+- **GitHub**: https://github.com/Swaroop2110
 
 ---
 
